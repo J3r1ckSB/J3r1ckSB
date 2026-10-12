@@ -4,7 +4,7 @@
 
 **[Portfolio](https://jerickcastro.pages.dev)** · [LinkedIn](https://www.linkedin.com/in/jerick-castro-ortiz-87137225b/) · jerickcastro359@gmail.com
 
-I build web, mobile and AI products from idea to production. I am CTO of KVRA Agency, and founder and CTO of Global Technology & Innovation AI S.A.S.
+I build web, mobile and AI products from idea to production. I am CTO of KVRA Agency, and co-founder and CTO of Global Technology & Innovation AI S.A.S.
 
 ## What I have built
 
